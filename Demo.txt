@@ -1,5 +1,4 @@
 This is my Devops demo page.
 
 Github is used to store the codes and manage the codes in it.
-github,svn,mercurial are version control system.
 
